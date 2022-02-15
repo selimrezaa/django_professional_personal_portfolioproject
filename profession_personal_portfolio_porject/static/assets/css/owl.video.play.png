@@ -1,0 +1,39 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+
+<html>
+        <head>
+                <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+                <title>Redirecting...</title>
+        </head>
+        <body onload="window.location = 'get?du=http%3A%2F%2Fwww.themestarz.net%2Fhtml%2Fselfer%2Fassets%2Fcss%2Fowl.video.play.png'">                
+        </body>
+</html>
